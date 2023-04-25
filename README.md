@@ -57,7 +57,7 @@
 
 # Мои репозитории по домашкам и диплому на Github!
 
-![Link](https://github.com/akinya1974?tab=repositories)
+<https://github.com/akinya1974?tab=repositories>
 
 
 ### СКРИПТЫ:
