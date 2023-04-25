@@ -55,6 +55,11 @@
 ![Link](https://github.com/akinya1974/Saltstack/blob/main/JPG2/Nginx%20finish-2.jpg)
 
 
+# Мои репозитории по домашкам и диплому на Github!
+
+![Link](https://github.com/akinya1974?tab=repositories)
+
+
 ### СКРИПТЫ:
 
 ```
@@ -108,9 +113,5 @@ salt-cp '*' index.nginx-debian.html /var/www/html
 # Понимаю, что все это можно сделать с помощью файлов состояний Salt master с расширением .sls, но пока не хватает практики, поскольку не изучал ранее данную технологию, а времени мало, к сожалению((!
 
 # В настоящее время обучаюсь системному администрированию Linux в Нетологии. Окончание Июль 2023 года! Ранее закончил обучени по программированию Python!
-
-# Мои репозитории по домашкам и диплому на Github!
-
-![Link](https://github.com/akinya1974?tab=repositories)
 
 ```
