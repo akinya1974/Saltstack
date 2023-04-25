@@ -36,6 +36,8 @@
 
 3. `Подменил текс старотовой страницы Nginx.`
 
+4. `См. Комманды Bash ниже.`
+
 ![Link](https://github.com/akinya1974/Saltstack/blob/main/JPG2/Установка%20NGINX.jpg)
 
 ![Link](https://github.com/akinya1974/Saltstack/blob/main/JPG2/Установка%20NGINX-2.jpg)
@@ -53,7 +55,7 @@
 ![Link](https://github.com/akinya1974/Saltstack/blob/main/JPG2/Nginx%20finish-2.jpg)
 
 
-### КОНФИГУРАЦИИ:
+### СКРИПТЫ:
 
 ```
 #Все комманды выполняются на мастере!
